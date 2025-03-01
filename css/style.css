@@ -1,0 +1,22 @@
+/*
+comentario
+*/
+h2{
+    color: rgb(255, 0, 0);
+}
+body{
+    background-color: rgb(104, 5, 197); color: white;  
+    text-align:center 
+}
+
+.texto-vermelho{
+    color: rgb(0, 255, 255);
+}
+
+#paragrafo{
+    color:rgb(0, 255, 64);
+}
+
+.topo{
+    background-color: rgb(102, 6, 146);
+}
